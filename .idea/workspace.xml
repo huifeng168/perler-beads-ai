@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab14a44f-b06b-44c6-95a6-931b8ff8ad68" name="Changes" comment="chore(config): 更新环境变量和项目配置&#10;&#10;- 替换了即梦4.0画图api的访问密钥和私有密钥&#10;- 添加了新的IDEA工作空间配置文件&#10;- 更新了项目依赖和构建工具配置" />
+    <list default="true" id="ab14a44f-b06b-44c6-95a6-931b8ff8ad68" name="Changes" comment="chore(config): 清理项目变更列表并更新IDEA工作空间配置&#10;&#10;- 移除了大量项目文件的变更记录&#10;- 更新了PropertiesComponent配置，添加了TypeScript外部目录路径设置&#10;- 增加了本地任务记录用于跟踪配置变更&#10;- 添加了VcsManagerConfiguration来管理提交信息">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -85,7 +88,7 @@
       <option name="presentableId" value="Default" />
       <updated>1706604515733</updated>
       <workItem from="1706604516853" duration="455000" />
-      <workItem from="1778467519357" duration="2749000" />
+      <workItem from="1778467519357" duration="3675000" />
     </task>
     <task id="LOCAL-00001" summary="chore(config): 更新环境变量和项目配置&#10;&#10;- 替换了即梦4.0画图api的访问密钥和私有密钥&#10;- 添加了新的IDEA工作空间配置文件&#10;- 更新了项目依赖和构建工具配置">
       <option name="closed" value="true" />
@@ -95,7 +98,23 @@
       <option name="project" value="LOCAL" />
       <updated>1778471349501</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="chore(config): 清理项目变更列表并更新IDEA工作空间配置&#10;&#10;- 移除了大量项目文件的变更记录&#10;- 更新了PropertiesComponent配置，添加了TypeScript外部目录路径设置&#10;- 增加了本地任务记录用于跟踪配置变更&#10;- 添加了VcsManagerConfiguration来管理提交信息">
+      <option name="closed" value="true" />
+      <created>1778472320808</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1778472320808</updated>
+    </task>
+    <task id="LOCAL-00003" summary="chore(config): 清理项目变更列表并更新IDEA工作空间配置&#10;&#10;- 移除了大量项目文件的变更记录&#10;- 更新了PropertiesComponent配置，添加了TypeScript外部目录路径设置&#10;- 增加了本地任务记录用于跟踪配置变更&#10;- 添加了VcsManagerConfiguration来管理提交信息">
+      <option name="closed" value="true" />
+      <created>1778472369252</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1778472369252</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -103,6 +122,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="chore(config): 更新环境变量和项目配置&#10;&#10;- 替换了即梦4.0画图api的访问密钥和私有密钥&#10;- 添加了新的IDEA工作空间配置文件&#10;- 更新了项目依赖和构建工具配置" />
-    <option name="LAST_COMMIT_MESSAGE" value="chore(config): 更新环境变量和项目配置&#10;&#10;- 替换了即梦4.0画图api的访问密钥和私有密钥&#10;- 添加了新的IDEA工作空间配置文件&#10;- 更新了项目依赖和构建工具配置" />
+    <MESSAGE value="chore(config): 清理项目变更列表并更新IDEA工作空间配置&#10;&#10;- 移除了大量项目文件的变更记录&#10;- 更新了PropertiesComponent配置，添加了TypeScript外部目录路径设置&#10;- 增加了本地任务记录用于跟踪配置变更&#10;- 添加了VcsManagerConfiguration来管理提交信息" />
+    <option name="LAST_COMMIT_MESSAGE" value="chore(config): 清理项目变更列表并更新IDEA工作空间配置&#10;&#10;- 移除了大量项目文件的变更记录&#10;- 更新了PropertiesComponent配置，添加了TypeScript外部目录路径设置&#10;- 增加了本地任务记录用于跟踪配置变更&#10;- 添加了VcsManagerConfiguration来管理提交信息" />
   </component>
 </project>
